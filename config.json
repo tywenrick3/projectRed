@@ -1,0 +1,18 @@
+{
+    "credentials": {
+        "first_name": "Ty",
+        "last_name": "Wenrick",
+        "blah": ""
+    },
+    "site-mappings": {
+        "best_buy": {
+
+        },
+        "target": {
+
+        },
+        "gamestop": {
+            
+        }
+    }
+}
