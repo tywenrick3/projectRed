@@ -13,6 +13,14 @@ Sites:
 
 Elements:
 Best Buy
+- Account
+- Sign in
+- Email Address feild
+- Continue
+- Use password select box
+- password feild
+- Continue Button
+- Search Feild (Nintendo Switch 2)
 - Add to Cart
 - Refresh Page
 - Go To Cart
